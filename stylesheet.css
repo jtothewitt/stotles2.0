@@ -32,6 +32,19 @@
     display: none;
 }
 
+
+body {
+    background-color: #fafafa; 
+    font-family: 'Karla', 
+        sans-serif;
+}
+
+#mainheadline{}
+
+#subheadline{
+    color: #cdd0d5;
+}
+
 #name {
     font-size: 85px; 
     color: #BCDFF2; 
@@ -39,11 +52,6 @@
 #dots {
     color: #000000; 
     font-size:85px;
-}
-body {
-    background-color: #fafafa; 
-    font-family: 'Karla', 
-        sans-serif;
 }
 
 #footer {
