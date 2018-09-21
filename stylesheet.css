@@ -70,6 +70,20 @@ body {
     font-size:85px;
 }
 
+/*button deets*/
+
+#lets-go-btn {
+  background-color: #E3EEB6;
+  color: #ffffff;
+  font-weight:bold;
+  padding: 13px 25px;
+  border-radius: 8px;
+  text-align: center;
+  align: center;
+  text-decoration: none;
+  font-size: 20px;
+}
+
 #footer {
     position: fixed;
     left: 0;
