@@ -102,6 +102,8 @@ body {
   border-radius: 8px;
   position: absolute;
   middle: 50%;
+  margin-left: 190px;
+    float: left;
 }
 
 #footer {
