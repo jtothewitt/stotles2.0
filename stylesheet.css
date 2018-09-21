@@ -84,7 +84,7 @@ body {
 
 /*button deets*/
 
-#lets-go-btn {
+.lets-go-btn {
   background-color: #E3EEB6;
   color: #ffffff;
   font-weight:bold;
