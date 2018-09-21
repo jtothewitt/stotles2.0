@@ -54,7 +54,7 @@ body {
     vertical-align: middle;
 }
 
-#mainheadline{}
+#mainheadline{font-size: 2rem;}
 
 #subheadline{
     color: #8d949e;
