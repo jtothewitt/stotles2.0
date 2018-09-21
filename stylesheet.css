@@ -48,11 +48,14 @@ body {
         sans-serif;
 }
 
-#box {
+#outer-box {
     min-height: 10em;
     display: table-cell;
     vertical-align: middle;
     padding-left: 140px;
+}
+#inner-box {
+    padding-left: 35px;
 }
 
 #mainheadline{font-size: 2rem;}
