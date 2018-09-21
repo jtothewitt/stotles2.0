@@ -48,13 +48,18 @@ body {
         sans-serif;
 }
 
-#outer-box {
+#papa-box {
     min-height: 10em;
     display: table-cell;
     vertical-align: middle;
     padding-left: 140px;
 }
-#inner-box {
+
+#mama-box {
+    padding-bottom: 25px;
+}
+
+#baby-box {
     padding-left: 35px;
 }
 
