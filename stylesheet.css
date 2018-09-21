@@ -37,11 +37,23 @@
     font-color: #BCDFF2; 
 }
 #dots {
-    color:black; 
+    color: #000000; 
     font-size:85px;
 }
 body {
     background-color: #fafafa; 
     font-family: 'Karla', 
         sans-serif;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height:2rem;
+    background-color: #fafafa;
+    color: #cdd0d5;
+    text-align: center;
+    font-size: 10px;
 }
