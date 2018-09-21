@@ -18,13 +18,13 @@
 /* Change the color of links on hover */
 .topnav a:hover {
     background-color: #BCDFF2;
-    color: white;
+    color: #ffffff;
 }
 
 /* Add an active class to highlight the current page */
 .active {
     background-color: #BCDFF2;
-    color: black;
+    color: #000000;
 }
 
 /* Hide the link that should open and close the topnav on small screens */
