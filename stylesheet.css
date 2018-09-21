@@ -32,12 +32,13 @@
     display: none;
 }
 #navname {
-    font-size: 85px; 
-    color: #BCDFF2; 
+     color: #000000;
+    font-size: 35px; 
 }
+
 #navdots {
-    color: #000000; 
-    font-size:85px;
+    color: #BCDFF2; 
+    font-size:35px;
 }
 
 body {
@@ -70,5 +71,5 @@ body {
     background-color: #fafafa;
     color: #cdd0d5;
     text-align: center;
-    font-size: 20px;
+    font-size: 12px;
 }
