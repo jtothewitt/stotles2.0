@@ -32,14 +32,14 @@
     display: none;
 }
 #navname {
-     color: #000000;
-    font-size: 30px;
+     color: #BCDFF2;
+    font-size: 35px;
    padding-left: 25px;
     text-align: left;
 }
 
 #navdots {
-    color: #BCDFF2; 
+    color: #000000; 
     font-size:35px;
     text-align: left;
 }
