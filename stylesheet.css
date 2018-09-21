@@ -58,11 +58,13 @@ body {
     padding-left: 35px;
 }
 
-#mainheadline{font-size: 2rem;}
+#mainheadline{
+    font-size:45px;
+}
 
 #subheadline{
     color: #8d949e;
-    font-size:25px;
+    font-size: 22px;
 }
 
 #name {
@@ -96,5 +98,5 @@ body {
     background-color: #fafafa;
     color: #cdd0d5;
     text-align: center;
-    font-size: 12px;
+    font-size: 11px;
 }
