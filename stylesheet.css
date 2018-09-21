@@ -35,11 +35,13 @@
      color: #000000;
     font-size: 30px;
    padding-left: 25px;
+    text-align: left;
 }
 
 #navdots {
     color: #BCDFF2; 
     font-size:35px;
+    text-align: left;
 }
 
 body {
@@ -53,7 +55,7 @@ body {
     display: table-cell;
     vertical-align: middle;
     padding-left: 140px;
-    padding-bottom:525px;
+    padding-bottom: 525px;
 }
 
 #mama-box {
