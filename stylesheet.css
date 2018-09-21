@@ -48,10 +48,11 @@ body {
         sans-serif;
 }
 
-.container-fluid {
+#box {
     min-height: 10em;
     display: table-cell;
     vertical-align: middle;
+    padding-left: 140px;
 }
 
 #mainheadline{font-size: 2rem;}
