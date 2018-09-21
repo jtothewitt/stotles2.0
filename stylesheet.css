@@ -31,3 +31,14 @@
 .topnav .icon {
     display: none;
 }
+
+#name {
+    font-size: 85px; 
+    font-color: #BCDFF2; 
+    font-family: 'Karla', sans-serif;
+}
+#dots {
+    color:black; 
+    font-size:85px;
+    font-family: 'Karla', sans-serif;
+}
