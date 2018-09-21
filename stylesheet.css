@@ -96,14 +96,12 @@ body {
   padding: 10px 20px;
   text-align: center;
   text-decoration: none;
-  display: inline-block;
   margin: 4px 2px;
   cursor: pointer;
   border-radius: 8px;
   position: absolute;
   middle: 50%;
-  margin-left: 190px;
-    float: left;
+  padding-left: 190px;
 }
 
 #footer {
