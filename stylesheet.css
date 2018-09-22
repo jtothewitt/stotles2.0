@@ -33,14 +33,14 @@
 }
 #navname {
      color: #BCDFF2;
-    font-size: 42px;
+    font-size: 50px;
    padding-left: 25px;
     text-align: left;
 }
 
 #navdots {
     color: #000000; 
-    font-size:42px;
+    font-size:50px;
     text-align: left;
 }
 
@@ -68,7 +68,7 @@ body {
 }
 
 #tiny-box {
-    padding-top: 7px;
+    padding-top: 10px;
     padding-left: 35px
 }
 
