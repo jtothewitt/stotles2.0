@@ -54,7 +54,7 @@ body {
     min-height: 10em;
     display: table-cell;
     vertical-align: middle;
-    padding-left: 140px;
+    padding-left: 100px;
     padding-top: 100px;
 }
 
@@ -110,7 +110,7 @@ body {
 }
 #buttony {
       padding-top: 5px;
-    padding-left: 350px;
+    padding-left: 300px;
 }
 
 #footer {
