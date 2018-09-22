@@ -55,7 +55,7 @@ body {
     display: table-cell;
     vertical-align: middle;
     padding-left: 140px;
-    padding-top: 110px;
+    padding-top: 100px;
 }
 
 #mama-box {
@@ -109,7 +109,8 @@ body {
 
 }
 #buttony {
-      padding-left: 350px;
+      padding-top: 5px;
+    padding-left: 350px;
 }
 
 #footer {
