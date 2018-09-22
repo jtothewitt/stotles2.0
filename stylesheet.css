@@ -67,6 +67,10 @@ body {
     padding-left: 35px;
 }
 
+#tiny-box {
+    padding-top: 7px;
+}
+
 #mainheadline{
     font-size:45px;
     line-height: 80%;
